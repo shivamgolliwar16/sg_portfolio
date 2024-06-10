@@ -1,5 +1,5 @@
 var i = 0;
-var textlap = '. Hello, I am Sanket Dudhmande...';
+var textlap = '. Hello, I am Shivam Golliwar...';
 var speedlap = 130;
 
 function typeWriterlap() {
